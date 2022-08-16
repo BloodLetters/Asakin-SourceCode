@@ -1,3 +1,7 @@
+-----------------------------------------------
+-- Donation-Log-Api By BloodLetters --
+-----------------------------------------------
+
 only_real_donation = false
 webhook_url = ""
 webhook_color = 3066993 -- 0 = default
