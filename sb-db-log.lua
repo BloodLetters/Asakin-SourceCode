@@ -1,3 +1,7 @@
+-----------------------------------------------
+-- Broadcast-Donation LOG By BloodLetters    --
+-----------------------------------------------
+
 -- Info
 -- DB = Donation Box
 -- SB = Super Boardcast
