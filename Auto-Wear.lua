@@ -1,3 +1,7 @@
+-----------------------------------------------
+-- AUTO-WEAR World To World By BloodLetters --
+-----------------------------------------------
+
 -- general settings
 botname = "" -- add bot name without number bot
 botpass = "" -- add bot pass
