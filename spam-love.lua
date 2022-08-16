@@ -1,3 +1,6 @@
+--------------------------------
+-- Auto-Spam By BloodLetters  --
+--------------------------------
 
 -- Main settings
 message = {"Message 1", "Message 2", "Message 3"}
