@@ -1,3 +1,7 @@
+-----------------------------------------------
+-- AUTO-PLANT World To World By BloodLetters --
+-----------------------------------------------
+
 -- General Settings
 seed = 4585
 delay = 150 -- delay plant
