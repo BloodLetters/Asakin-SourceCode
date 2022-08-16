@@ -1,5 +1,5 @@
 -----------------------------------------------
--- AUTO-WEAR World To World By BloodLetters --
+-- AUTO-WEAR By BloodLetters --
 -----------------------------------------------
 
 -- general settings
