@@ -12,7 +12,7 @@ collect_range = 3
 world_list = {""}
 world_door_id = "" -- all door id in world_list will be same
 
-storage_world = ""
+storage_world = "" -- Make sure all world is upper letters
 storage_door_id = ""
 
 -- webhook settings
