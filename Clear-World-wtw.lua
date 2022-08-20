@@ -3,7 +3,7 @@
 -----------------------------------------------
 
 -- main settings
-world_list = {"", ""}
+world_list = {"", ""} -- Make sure all world is upper letters
 world_door_id = ""
 
 trash_item = {2, 3, 4, 5, 10, 11, 14, 15} -- trash item id
