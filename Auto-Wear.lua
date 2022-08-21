@@ -1,3 +1,7 @@
+---------------------------------
+-- Script by BloodLetters#2581 --
+---------------------------------
+
 -- general settings
 botname = "" -- add bot name without number bot
 botpass = "" -- add bot pass
