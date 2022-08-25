@@ -1,6 +1,6 @@
 item_id = 3 -- Seed ID
 
-world_list = {""} -- use Uppercase letters
+world_list = {"world 1", "World 2", "World 3"} -- use Uppercase letters
 world_id = "" -- use Lowercase letters
 
 storage = "" -- use Uppercase letters
