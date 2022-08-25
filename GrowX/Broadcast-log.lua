@@ -1,7 +1,7 @@
-webhook_link = "https://discord.com/api/webhooks/1002054165473787945/tVqtZ3vwz3GkvGzPLEiljFIT0b17MRsuOGfgsnk5v4KJnwCisLNK-n5uN4uojlkn957K"
+webhook_link = ""
 webhook_color = 3066993
 
-world_name = "broadcasttest"
+world_name = ""
 use_love = true
 
 footer_info = "Made with love"
