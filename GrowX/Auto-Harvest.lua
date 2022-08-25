@@ -1,4 +1,4 @@
-item_id = 3
+item_id = 3 -- Seed ID
 
 world_list = {""} -- use Uppercase letters
 world_id = "" -- use Lowercase letters
