@@ -9,16 +9,16 @@
 
 item_id = 2
 
-world_list = {"World 1", "World 2"}
-world_id = ""
+world_list = {"World 1", "World 2"} -- world list must uppercase
+world_id = "" -- use uppercase
 
-storage_world = ""
-storage_id = ""
+storage_world = "" -- use uppercase
+storage_id = "" -- use uppercase
 
-use_webhook = false
-webhook_url = ""
+use_webhook = false -- set this to true if you want to use webhook
+webhook_url = "" -- webhook url
 
-collect_range = 5
+collect_range = 5 -- max 5 Min 3
 
 -- Optional Feature
 remove_bot_when_done = false
