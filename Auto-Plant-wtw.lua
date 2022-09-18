@@ -7,8 +7,8 @@ seed_id = 0
 world_list = {"world 1", "world 2"} -- world list uppercase letters
 world_id = "" -- if bot from white door set this to empty or ""
 
-storage_world = ""
-storage_id = ""
+storage_world = "" -- Upper case world name
+storage_id = "" -- Upper case world name
 
 delay = 150 -- plant delay
 
