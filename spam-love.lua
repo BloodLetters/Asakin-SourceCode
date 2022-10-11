@@ -23,6 +23,7 @@ position = {
     -- or bot will start spam in white door
     bot_x = 0, -- bot x position
     bot_y = 0 -- bot y position
+    -- make sure you put this correct coordinate. or bot will not work
 }
 
 ---------------------------------------------------------------------------------
