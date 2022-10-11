@@ -1,5 +1,5 @@
 ---------------------------------
--- Script By BloodLetters#2581 --
+-- Script Auto-Plant By BloodLetters#2581 --
 ---------------------------------
 
 seed_id = 0
