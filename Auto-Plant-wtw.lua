@@ -1,4 +1,8 @@
-seed_id = 4585
+---------------------------------
+-- Script By BloodLetters#2581 --
+---------------------------------
+
+seed_id = 0
 
 world_list = {""} -- world list uppercase letters
 world_id = "" -- if bot from white door set this to empty or ""
