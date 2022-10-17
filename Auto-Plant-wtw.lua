@@ -4,11 +4,11 @@
 
 seed_id = 0
 
-world_list = {""} -- world list uppercase letters
-world_id = "" -- if bot from white door set this to empty or ""
+world_list = {""} -- world list must in uppercase letters
+world_id = "" -- if bot from white door set this to empty or "" and must in uppercase letters
 
-storage_world = ""
-storage_id = ""
+storage_world = "" -- storage world must in uppercase letters
+storage_id = "" -- storage id must in uppercase letters
 
 delay = {
     plant = 150, -- plant delay
