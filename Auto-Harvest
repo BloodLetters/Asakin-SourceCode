@@ -4,8 +4,8 @@
 tree_id = 13 -- seed id
 drop_to_storage_when_reach = 150
 
-world_list = {'BLOODY002'} -- uppercase latters
-world_door = "TEST" -- if from white door set this to empty or ""
+world_list = {'WORLD1', "WORLD2", "WORLD3"} -- uppercase latters
+world_door = "" -- if from white door set this to empty or ""
 
 delay_harvest = 150
 collect_range = 3
@@ -13,8 +13,8 @@ collect_range = 3
 use_webhook = false
 webhook_url = ""
 
-storage_world = "PLATTAKE1" -- Uppercase
-storage_world_id = "TEST" -- if from white door set this to empty or ""
+storage_world = "" -- Uppercase
+storage_world_id = "" -- if from white door set this to empty or ""
 
 seed_background = 20
 block_background = 20
