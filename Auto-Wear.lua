@@ -12,8 +12,8 @@ configMode1 = {
 }
 
 configMode2 = {
-    spesific_name = {"ByukButs33", "ByukButs34"},
-    botpass = "kongtsa2!3."
+    spesific_name = {""},
+    botpass = ""
 }
 
 delay = {
@@ -23,8 +23,8 @@ delay = {
     reconnect_delay = 5000
 }
 
-world_item = "BLOODY002" -- wear item storage world
-world_item_id = "TEST" -- wear item storage world door id
+world_item = "" -- wear item storage world
+world_item_id = "" -- wear item storage world door id
 
 use_logs = true
 file_name = "auto_wear.txt"
