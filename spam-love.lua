@@ -9,9 +9,7 @@ spam = {
 }
 
 position = {
-    -- this is optional.
-    -- if you use use_auto_add you need set up this.
-    -- or bot will start spam in white door
+    -- this is optional. you can move it manually in executor menu
     world = "", -- bot world use Uppercase or capital
     bot_x = 0, -- bot x position
     bot_y = 0 -- bot y position
