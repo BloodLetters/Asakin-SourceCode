@@ -30,7 +30,7 @@ use_logs = true
 file_name = "auto_wear.txt"
 
 -- DEBUG (Dont use this)
-trash_pickaxe_if_have = true
+trash_pickaxe_if_have = false
 
 Version = 1.2
 debug = false
